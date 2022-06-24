@@ -1,7 +1,5 @@
-#ifndef FILE_MAIN
-#define FILE_MAIN
-
-int _putchar(char c);
+#ifndef MAIN_H
+#define MAIN_H
 
 int _islower(int c);
 
